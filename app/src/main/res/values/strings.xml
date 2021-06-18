@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DictionaryCollegeProject</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_dictionary_list">DictionaryListActivity</string>
+    <string name="title_activity_word_definition_detail">WordDefinitionDetailActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_chooser">ChooserActivity</string>
+    <string name="title_activity_aptitude_activity1">AptitudeActivity1</string>
+    <string name="title_activity_aptitude_activity2">AptitudeActivity2</string>
+    <string name="title_activity_aptitude_activity3">AptitudeActivity3</string>
+    <string name="title_activity_aptitude_activity4">AptitudeActivity4</string>
+    <string name="title_activity_aptitude_activity5">AptitudeActivity5</string>
+    <string name="title_activity_result">ResultActivity</string>
+
+</resources>
